@@ -6,6 +6,4 @@ This is a basic stopwatch application built using HTML, CSS, and JavaScript. It 
 * **Reset:** Resets the timer to 00:00:00
 
 ## Technologies
-* HTML: For the structure of the stopwatch
-* CSS: For styling the stopwatch
-* JavaScript: For the logic and functionality of the stopwatch
+
